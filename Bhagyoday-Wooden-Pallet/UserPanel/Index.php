@@ -67,8 +67,7 @@
     </div>
   </div>
 
-  <!-- ====== Benefits Section Start ====== -->
- <!-- ====== Benefits Section Start ====== -->
+<!-- ====== Benefits Section Start ====== -->
 <div class="benefits-section py-5">
   <div class="container">
     <div class="section-heading text-center mb-5">
@@ -76,33 +75,38 @@
       <span>Delivering strength, reliability, and sustainability</span>
     </div>
     <div class="row">
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-3 text-center mb-4">
         <div class="benefit-card">
           <img src="assets/images/icons/heavy-duty.png" alt="Heavy Duty" class="benefit-img mb-3">
           <h4>Heavy Duty Build</h4>
           <p>Our pallets are crafted from premium-grade wood ensuring maximum durability for industrial use.</p>
         </div>
       </div>
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-3 text-center mb-4">
         <div class="benefit-card">
           <img src="assets/images/icons/certified.png" alt="Certified" class="benefit-img mb-3">
-          <h4>ISPM-15 Certified</h4>
-          <p>We comply with global export regulations and provide heat-treated pallets with proper certification.</p>
+          <h4>ISO Certified</h4>
+          <p>We follow ISO standards to ensure quality and reliability in every pallet we manufacture.</p>
         </div>
       </div>
-      <div class="col-md-4 text-center mb-4">
+      <div class="col-md-3 text-center mb-4">
         <div class="benefit-card">
-          <img src="assets/images/icons/eco-friendly.png" alt="Eco Friendly" class="benefit-img mb-3">
-          <h4>Eco-Friendly</h4>
-          <p>Our manufacturing practices support sustainability and promote responsible wood sourcing.</p>
+          <img src="assets/images/icons/certified.png" alt="ISPM-15 Certified" class="benefit-img mb-3" style="max-width:120px;">
+          <h4>ISPM-15 Certified</h4>
+          <p>Our pallets are heat-treated and certified as per ISPM-15 standards for global export compliance.</p>
+        </div>
+      </div>
+      <div class="col-md-3 text-center mb-4">
+        <div class="benefit-card">
+          <img src="assets/images/icons/certified.png" alt="IPPC Certified" class="benefit-img mb-3" style="max-width:120px;">
+          <h4>IPPC IN-569 H T Certified</h4>
+          <p>We provide pallets with IPPC certification, ensuring compliance with international phytosanitary standards.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
 <!-- ====== Benefits Section End ====== -->
-
-  <!-- ====== Benefits Section End ====== -->
 
 
   <div class="services">
